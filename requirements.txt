@@ -1,5 +1,5 @@
-scikit-learn
+scikit-learn==1.5.2
 pandas
 streamlit
-joblib
+joblib==1.4.2
 plotly
