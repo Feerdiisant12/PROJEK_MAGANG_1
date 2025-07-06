@@ -1,0 +1,346 @@
+tanggal,seksi_asal,seksi_tujuan,nama_komponen,stok_tersedia,konsumsi_per_jam,lead_time,status_pengiriman,jam_mulai_konsumsi,jam_estimasi_habis,warna_status,saran_tindakan
+2025-07-01,Press,Welding,Tangki Bensin,45,15,1.2,Dalam Perjalanan,08:00,11:00,Kuning,Periksa status pengiriman
+2025-07-01,Welding,Painting Steel,Rangka Depan,60,10,0.9,Belum Jalan,09:00,15:00,Hijau,Tetap pantau stok
+2025-07-01,Machining,Assy Engine,Cylinder Head,20,8,1.4,Belum Jalan,07:00,09:30,Merah,Hubungi seksi sebelumnya
+2025-07-01,Gensub,Assy Unit,Bracket Plastik,90,20,0.7,Sudah Tiba,10:00,14:30,Hijau,Tetap pantau stok
+2025-07-01,Painting Steel,Assy Unit,Rangka Body,25,10,0.8,Dalam Perjalanan,06:00,08:30,Kuning,Siapkan pengiriman cadangan
+2025-07-01,Press,Welding,Tangki Bensin,30,12,1.5,Belum Jalan,11:00,13:30,Kuning,Periksa status pengiriman
+2025-07-01,Machining,Assy Engine,Crankshaft,50,18,1.0,Sudah Tiba,12:00,14:46,Hijau,Tetap pantau stok
+2025-07-01,Casting,Machining,Engine Block,15,5,1.8,Belum Jalan,08:00,11:00,Merah,Kirim manual lewat forklift
+2025-07-01,Welding,Painting Steel,Rangka Belakang,80,15,0.6,Dalam Perjalanan,09:00,14:20,Hijau,Tetap pantau stok
+2025-07-01,Gensub,Assy Unit,Handle Plastik,35,20,1.1,Belum Jalan,07:00,08:45,Merah,Hubungi seksi sebelumnya
+2025-07-01,Painting Steel,Assy Unit,Rangka Body,100,10,0.5,Sudah Tiba,10:00,20:00,Hijau,Tetap pantau stok
+2025-07-01,Press,Welding,Tangki Bensin,25,25,1.3,Dalam Perjalanan,06:00,07:00,Merah,Kirim manual lewat forklift
+2025-07-01,Machining,Assy Engine,Cylinder Head,70,12,0.9,Sudah Tiba,08:00,13:50,Hijau,Tetap pantau stok
+2025-07-01,Casting,Machining,Engine Block,40,8,1.7,Belum Jalan,09:00,14:00,Kuning,Periksa status pengiriman
+2025-07-01,Welding,Painting Steel,Rangka Depan,55,15,0.8,Dalam Perjalanan,11:00,14:40,Hijau,Tetap pantau stok
+2025-07-01,Gensub,Assy Unit,Bracket Plastik,20,10,1.2,Belum Jalan,07:00,09:00,Merah,Hubungi seksi sebelumnya
+2025-07-01,Painting Steel,Assy Unit,Rangka Body,60,20,0.7,Sudah Tiba,12:00,15:00,Hijau,Tetap pantau stok
+2025-07-01,Press,Welding,Tangki Bensin,35,18,1.0,Dalam Perjalanan,08:00,09:56,Kuning,Siapkan pengiriman cadangan
+2025-07-01,Machining,Assy Engine,Crankshaft,90,15,0.9,Sudah Tiba,10:00,16:00,Hijau,Tetap pantau stok
+2025-07-01,Casting,Machining,Engine Block,25,10,1.5,Belum Jalan,06:00,08:30,Merah,Kirim manual lewat forklift
+2025-07-02,Welding,Painting Steel,Rangka Belakang,50,12,0.8,Dalam Perjalanan,09:00,13:10,Hijau,Tetap pantau stok
+2025-07-02,Gensub,Assy Unit,Handle Plastik,30,20,1.3,Belum Jalan,07:00,08:30,Merah,Hubungi seksi sebelumnya
+2025-07-02,Painting Steel,Assy Unit,Rangka Body,80,10,0.6,Sudah Tiba,11:00,19:00,Hijau,Tetap pantau stok
+2025-07-02,Press,Welding,Tangki Bensin,15,15,1.4,Dalam Perjalanan,08:00,09:00,Merah,Kirim manual lewat forklift
+2025-07-02,Machining,Assy Engine,Cylinder Head,60,10,0.7,Sudah Tiba,10:00,16:00,Hijau,Tetap pantau stok
+2025-07-02,Casting,Machining,Engine Block,45,8,1.2,Belum Jalan,06:00,11:37,Kuning,Periksa status pengiriman
+2025-07-02,Welding,Painting Steel,Rangka Depan,70,15,0.9,Dalam Perjalanan,09:00,13:40,Hijau,Tetap pantau stok
+2025-07-02,Gensub,Assy Unit,Bracket Plastik,25,20,1.0,Belum Jalan,07 Nu:00,08:15,Merah,Hubungi seksi sebelumnya
+2025-07-02,Painting Steel,Assy Unit,Rangka Body,90,10,0.5,Sudah Tiba,12:00,21:00,Hijau,Tetap pantau stok
+2025-07-02,Press,Welding,Tangki Bensin,35,12,1.1,Dalam Perjalanan,08:00,10:55,Kuning,Siapkan pengiriman cadangan
+2025-07-02,Machining,Assy Engine,Crankshaft,50,18,0.8,Sudah Tiba,10:00,12:46,Hijau,Tetap pantau stok
+2025-07-03,Casting,Machining,Engine Block,30,7,1.6,Belum Jalan,07:00,11:17,Kuning,Periksa status pengiriman
+2025-07-03,Welding,Painting Steel,Rangka Belakang,65,13,0.7,Dalam Perjalanan,10:00,15:00,Hijau,Tetap pantau stok
+2025-07-03,Gensub,Assy Unit,Handle Plastik,40,22,1.0,Belum Jalan,06:00,07:49,Merah,Hubungi seksi sebelumnya
+2025-07-03,Painting Steel,Assy Unit,Rangka Body,75,12,0.6,Sudah Tiba,09:00,15:15,Hijau,Tetap pantau stok
+2025-07-03,Press,Welding,Tangki Bensin,20,10,1.3,Dalam Perjalanan,08:00,10:00,Kuning,Periksa status pengiriman
+2025-07-03,Machining,Assy Engine,Cylinder Head,55,15,0.8,Sudah Tiba,11:00,14:40,Hijau,Tetap pantau stok
+2025-07-03,Casting,Machining,Engine Block,25,6,1.9,Belum Jalan,07:00,11:10,Kuning,Periksa status pengiriman
+2025-07-03,Welding,Painting Steel,Rangka Depan,85,10,0.5,Dalam Perjalanan,10:00,18:30,Hijau,Tetap pantau stok
+2025-07-03,Gensub,Assy Unit,Bracket Plastik,30,18,1.1,Belum Jalan,06:00,07:40,Merah,Hubungi seksi sebelumnya
+2025-07-03,Painting Steel,Assy Unit,Rangka Body,70,15,0.7,Sudah Tiba,09:00,13:40,Hijau,Tetap pantau stok
+2025-07-04,Press,Welding,Tangki Bensin,50,20,1.0,Dalam Perjalanan,08:00,10:30,Kuning,Siapkan pengiriman cadangan
+2025-07-04,Machining,Assy Engine,Crankshaft,65,12,0.9,Sudah Tiba,10:00,15:25,Hijau,Tetap pantau stok
+2025-07-04,Casting,Machining,Engine Block,35,8,1.5,Belum Jalan,07:00,11:22,Kuning,Periksa status pengiriman
+2025-07-04,Welding,Painting Steel,Rangka Belakang,90,15,0.6,Dalam Perjalanan,09:00,15:00,Hijau,Tetap pantau stok
+2025-07-04,Gensub,Assy Unit,Handle Plastik,25,20,1.2,Belum Jalan,06:00,07:15,Merah,Kirim manual lewat forklift
+2025-07-04,Painting Steel,Assy Unit,Rangka Body,80,10,0.5,Sudah Tiba,11:00,19:00,Hijau,Tetap pantau stok
+2025-07-04,Press,Welding,Tangki Bensin,30,15,1.3,Dalam Perjalanan,08:00,10:00,Kuning,Periksa status pengiriman
+2025-07-04,Machining,Assy Engine,Cylinder Head,60,10,0.7,Sudah Tiba,10:00,16:00,Hijau,Tetap pantau stok
+2025-07-04,Casting,Machining,Engine Block,20,5,1.8,Belum Jalan,07:00,11:00,Merah,Hubungi seksi sebelumnya
+2025-07-05,Welding,Painting Steel,Rangka Depan,70,12,0.9,Dalam Perjalanan,09:00,14:50,Hijau,Tetap pantau stok
+2025-07-05,Gensub,Assy Unit,Bracket Plastik,35,18,1.0,Belum Jalan,06:00,07:56,Merah,Hubungi seksi sebelumnya
+2025-07-05,Painting Steel,Assy Unit,Rangka Body,85,10,0.6,Sudah Tiba,11:00,19:30,Hijau,Tetap pantau stok
+2025-07-05,Press,Welding,Tangki Bensin,25,15,1.4,Dalam Perjalanan,08:00,09:40,Merah,Kirim manual lewat forklift
+2025-07-05,Machining,Assy Engine,Crankshaft,50,12,0.8,Sudah Tiba,10:00,14:10,Hijau,Tetap pantau stok
+2025-07-05,Casting,Machining,Engine Block,40,8,1.6,Belum Jalan,07:00,12:00,Kuning,Periksa status pengiriman
+2025-07-05,Welding,Painting Steel,Rangka Belakang,75,15,0.7,Dalam Perjalanan,09:00,14:00,Hijau,Tetap pantau stok
+2025-07-05,Gensub,Assy Unit,Handle Plastik,30,20,1.1,Belum Jalan,06:00,07:30,Merah,Hubungi seksi sebelumnya
+2025-07-05,Painting Steel,Assy Unit,Rangka Body,90,10,0.5,Sudah Tiba,11:00,20:00,Hijau,Tetap pantau stok
+2025-07-06,Press,Welding,Tangki Bensin,35,12,1.2,Dalam Perjalanan,08:00,10:55,Kuning,Siapkan pengiriman cadangan
+2025-07-06,Machining,Assy Engine,Cylinder Head,65,15,0.9,Sudah Tiba,10:00,14:20,Hijau,Tetap pantau stok
+2025-07-06,Casting,Machining,Engine Block,25,6,1.7,Belum Jalan,07:00,11:10,Kuning,Periksa status pengiriman
+2025-07-06,Welding,Painting Steel,Rangka Depan,80,10,0.6,Dalam Perjalanan,09:00,17:00,Hijau,Tetap pantau stok
+2025-07-06,Gensub,Assy Unit,Bracket Plastik,20,18,1.0,Belum Jalan,06:00,07:06,Merah,Kirim manual lewat forklift
+2025-07-06,Painting Steel,Assy Unit,Rangka Body,70,12,0.7,Sudah Tiba,11:00,16:50,Hijau,Tetap pantau stok
+2025-07-06,Press,Welding,Tangki Bensin,30,15,1.3,Dalam Perjalanan,08:00,10:00,Kuning,Periksa status pengiriman
+2025-07-06,Machining,Assy Engine,Crankshaft,55,10,0.8,Sudah Tiba,10:00,15:30,Hijau,Tetap pantau stok
+2025-07-06,Casting,Machining,Engine Block,45,8,1.5,Belum Jalan,07:00,12:37,Kuning,Periksa status pengiriman
+2025-07-07,Welding,Painting Steel,Rangka Belakang,85,12,0.9,Dalam Perjalanan,09:00,16:05,Hijau,Tetap pantau stok
+2025-07-07,Gensub,Assy Unit,Handle Plastik,25,20,1.2,Belum Jalan,06:00,07:15,Merah,Hubungi seksi sebelumnya
+2025-07-07,Painting Steel,Assy Unit,Rangka Body,90,10,0.5,Sudah Tiba,11:00,20:00,Hijau,Tetap pantau stok
+2025-07-07,Press,Welding,Tangki Bensin,20,15,1.4,Dalam Perjalanan,08:00,09:20,Merah,Kirim manual lewat forklift
+2025-07-07,Machining,Assy Engine,Cylinder Head,60,12,0.7,Sudah Tiba,10:00,15:00,Hijau,Tetap pantau stok
+2025-07-07,Casting,Machining,Engine Block,35,8,1.6,Belum Jalan,07:00,11:22,Kuning,Periksa status pengiriman
+2025-07-07,Welding,Painting Steel,Rangka Depan,70,10,0.6,Dalam Perjalanan,09:00,16:00,Hijau,Tetap pantau stok
+2025-07-07,Gensub,Assy Unit,Bracket Plastik,30,18,1.0,Belum Jalan,06:00,07:40,Merah,Hubungi seksi sebelumnya
+2025-07-07,Painting Steel,Assy Unit,Rangka Body,80,12,0.7,Sudah Tiba,11:00,17:40,Hijau,Tetap pantau stok
+2025-07-08,Press,Welding,Tangki Bensin,45,15,1.2,Dalam Perjalanan,08:00,11:00,Kuning,Periksa status pengiriman
+2025-07-08,Welding,Painting Steel,Rangka Depan,60,10,0.9,Belum Jalan,09:00,15:00,Hijau,Tetap pantau stok
+2025-07-08,Machining,Assy Engine,Cylinder Head,20,8,1.4,Belum Jalan,07:00,09:30,Merah,Hubungi seksi sebelumnya
+2025-07-08,Gensub,Assy Unit,Bracket Plastik,90,20,0.7,Sudah Tiba,10:00,14:30,Hijau,Tetap pantau stok
+2025-07-08,Painting Steel,Assy Unit,Rangka Body,25,10,0.8,Dalam Perjalanan,06:00,08:30,Kuning,Siapkan pengiriman cadangan
+2025-07-08,Press,Welding,Tangki Bensin,30,12,1.5,Belum Jalan,11:00,13:30,Kuning,Periksa status pengiriman
+2025-07-08,Machining,Assy Engine,Crankshaft,50,18,1.0,Sudah Tiba,12:00,14:46,Hijau,Tetap pantau stok
+2025-07-08,Casting,Machining,Engine Block,15,5,1.8,Belum Jalan,08:00,11:00,Merah,Kirim manual lewat forklift
+2025-07-08,Welding,Painting Steel,Rangka Belakang,80,15,0.6,Dalam Perjalanan,09:00,14:20,Hijau,Tetap pantau stok
+2025-07-08,Gensub,Assy Unit,Handle Plastik,35,20,1.1,Belum Jalan,07:00,08:45,Merah,Hubungi seksi sebelumnya
+2025-07-08,Painting Steel,Assy Unit,Rangka Body,100,10,0.5,Sudah Tiba,10:00,20:00,Hijau,Tetap pantau stok
+2025-07-09,Press,Welding,Tangki Bensin,25,25,1.3,Dalam Perjalanan,06:00,07:00,Merah,Kirim manual lewat forklift
+2025-07-09,Machining,Assy Engine,Cylinder Head,70,12,0.9,Sudah Tiba,08:00,13:50,Hijau,Tetap pantau stok
+2025-07-09,Casting,Machining,Engine Block,40,8,1.7,Belum Jalan,09:00,14:00,Kuning,Periksa status pengiriman
+2025-07-09,Welding,Painting Steel,Rangka Depan,55,15,0.8,Dalam Perjalanan,11:00,14:40,Hijau,Tetap pantau stok
+2025-07-09,Gensub,Assy Unit,Bracket Plastik,20,10,1.2,Belum Jalan,07:00,09:00,Merah,Hubungi seksi sebelumnya
+2025-07-09,Painting Steel,Assy Unit,Rangka Body,60,20,0.7,Sudah Tiba,12:00,15:00,Hijau,Tetap pantau stok
+2025-07-09,Press,Welding,Tangki Bensin,35,18,1.0,Dalam Perjalanan,08:00,09:56,Kuning,Siapkan pengiriman cadangan
+2025-07-09,Machining,Assy Engine,Crankshaft,90,15,0.9,Sudah Tiba,10:00,16:00,Hijau,Tetap pantau stok
+2025-07-09,Casting,Machining,Engine Block,25,10,1.5,Belum Jalan,06:00,08:30,Merah,Kirim manual lewat forklift
+2025-07-10,Welding,Painting Steel,Rangka Belakang,50,12,0.8,Dalam Perjalanan,09:00,13:10,Hijau,Tetap pantau stok
+2025-07-10,Gensub,Assy Unit,Handle Plastik,30,20,1.3,Belum Jalan,07:00,08:30,Merah,Hubungi seksi sebelumnya
+2025-07-10,Painting Steel,Assy Unit,Rangka Body,80,10,0.6,Sudah Tiba,11:00,19:00,Hijau,Tetap pantau stok
+2025-07-10,Press,Welding,Tangki Bensin,15,15,1.4,Dalam Perjalanan,08:00,09:00,Merah,Kirim manual lewat forklift
+2025-07-10,Machining,Assy Engine,Cylinder Head,60,10,0.7,Sudah Tiba,10:00,16:00,Hijau,Tetap pantau stok
+2025-07-10,Casting,Machining,Engine Block,45,8,1.2,Belum Jalan,06:00,11:37,Kuning,Periksa status pengiriman
+2025-07-10,Welding,Painting Steel,Rangka Depan,70,15,0.9,Dalam Perjalanan,09:00,13:40,Hijau,Tetap pantau stok
+2025-07-10,Gensub,Assy Unit,Bracket Plastik,25,20,1.0,Belum Jalan,07:00,08:15,Merah,Hubungi seksi sebelumnya
+2025-07-10,Painting Steel,Assy Unit,Rangka Body,90,10,0.5,Sudah Tiba,12:00,21:00,Hijau,Tetap pantau stok
+2025-07-11,Press,Welding,Tangki Bensin,35,12,1.1,Dalam Perjalanan,08:00,10:55,Kuning,Siapkan pengiriman cadangan
+2025-07-11,Machining,Assy Engine,Crankshaft,50,18,0.8,Sudah Tiba,10:00,12:46,Hijau,Tetap pantau stok
+2025-07-11,Casting,Machining,Engine Block,30,7,1.6,Belum Jalan,07:00,11:17,Kuning,Periksa status pengiriman
+2025-07-11,Welding,Painting Steel,Rangka Belakang,65,13,0.7,Dalam Perjalanan,10:00,15:00,Hijau,Tetap pantau stok
+2025-07-11,Gensub,Assy Unit,Handle Plastik,40,22,1.0,Belum Jalan,06:00,07:49,Merah,Hubungi seksi sebelumnya
+2025-07-11,Painting Steel,Assy Unit,Rangka Body,75,12,0.6,Sudah Tiba,09:00,15:15,Hijau,Tetap pantau stok
+2025-07-11,Press,Welding,Tangki Bensin,20,10,1.3,Dalam Perjalanan,08:00,10:00,Kuning,Periksa status pengiriman
+2025-07-11,Machining,Assy Engine,Cylinder Head,55,15,0.8,Sudah Tiba,11:00,14:40,Hijau,Tetap pantau stok
+2025-07-11,Casting,Machining,Engine Block,25,6,1.9,Belum Jalan,07:00,11:10,Kuning,Periksa status pengiriman
+2025-07-12,Welding,Painting Steel,Rangka Depan,85,10,0.5,Dalam Perjalanan,10:00,18:30,Hijau,Tetap pantau stok
+2025-07-12,Gensub,Assy Unit,Bracket Plastik,30,18,1.1,Belum Jalan,06:00,07:40,Merah,Hubungi seksi sebelumnya
+2025-07-12,Painting Steel,Assy Unit,Rangka Body,70,15,0.7,Sudah Tiba,09:00,13:40,Hijau,Tetap pantau stok
+2025-07-12,Press,Welding,Tangki Bensin,50,20,1.0,Dalam Perjalanan,08:00,10:30,Kuning,Siapkan pengiriman cadangan
+2025-07-12,Machining,Assy Engine,Crankshaft,65,12,0.9,Sudah Tiba,10:00,15:25,Hijau,Tetap pantau stok
+2025-07-12,Casting,Machining,Engine Block,35,8,1.5,Belum Jalan,07:00,11:22,Kuning,Periksa status pengiriman
+2025-07-12,Welding,Painting Steel,Rangka Belakang,90,15,0.6,Dalam Perjalanan,09:00,15:00,Hijau,Tetap pantau stok
+2025-07-12,Gensub,Assy Unit,Handle Plastik,25,20,1.2,Belum Jalan,06:00,07:15,Merah,Kirim manual lewat forklift
+2025-07-12,Painting Steel,Assy Unit,Rangka Body,80,10,0.5,Sudah Tiba,11:00,19:00,Hijau,Tetap pantau stok
+2025-07-13,Press,Welding,Tangki Bensin,30,15,1.3,Dalam Perjalanan,08:00,10:00,Kuning,Periksa status pengiriman
+2025-07-13,Machining,Assy Engine,Cylinder Head,60,10,0.7,Sudah Tiba,10:00,16:00,Hijau,Tetap pantau stok
+2025-07-13,Casting,Machining,Engine Block,20,5,1.8,Belum Jalan,07:00,11:00,Merah,Hubungi seksi sebelumnya
+2025-07-13,Welding,Painting Steel,Rangka Depan,70,12,0.9,Dalam Perjalanan,09:00,14:50,Hijau,Tetap pantau stok
+2025-07-13,Gensub,Assy Unit,Bracket Plastik,35,18,1.0,Belum Jalan,06:00,07:56,Merah,Hubungi seksi sebelumnya
+2025-07-13,Painting Steel,Assy Unit,Rangka Body,85,10,0.6,Sudah Tiba,11:00,19:30,Hijau,Tetap pantau stok
+2025-07-13,Press,Welding,Tangki Bensin,25,15,1.4,Dalam Perjalanan,08:00,09:40,Merah,Kirim manual lewat forklift
+2025-07-13,Machining,Assy Engine,Crankshaft,50,12,0.8,Sudah Tiba,10:00,14:10,Hijau,Tetap pantau stok
+2025-07-13,Casting,Machining,Engine Block,40,8,1.6,Belum Jalan,07:00,12:00,Kuning,Periksa status pengiriman
+2025-07-14,Welding,Painting Steel,Rangka Belakang,75,15,0.7,Dalam Perjalanan,09:00,14:00,Hijau,Tetap pantau stok
+2025-07-14,Gensub,Assy Unit,Handle Plastik,30,20,1.1,Belum Jalan,06:00,07:30,Merah,Hubungi seksi sebelumnya
+2025-07-14,Painting Steel,Assy Unit,Rangka Body,90,10,0.5,Sudah Tiba,11:00,20:00,Hijau,Tetap pantau stok
+2025-07-14,Press,Welding,Tangki Bensin,35,12,1.2,Dalam Perjalanan,08:00,10:55,Kuning,Siapkan pengiriman cadangan
+2025-07-14,Machining,Assy Engine,Cylinder Head,65,15,0.9,Sudah Tiba,10:00,14:20,Hijau,Tetap pantau stok
+2025-07-14,Casting,Machining,Engine Block,25,6,1.7,Belum Jalan,07:00,11:10,Kuning,Periksa status pengiriman
+2025-07-14,Welding,Painting Steel,Rangka Depan,80,10,0.6,Dalam Perjalanan,09:00,17:00,Hijau,Tetap pantau stok
+2025-07-14,Gensub,Assy Unit,Bracket Plastik,20,18,1.0,Belum Jalan,06:00,07:06,Merah,Kirim manual lewat forklift
+2025-07-14,Painting Steel,Assy Unit,Rangka Body,70,12,0.7,Sudah Tiba,11:00,16:50,Hijau,Tetap pantau stok
+2025-07-15,Press,Welding,Tangki Bensin,45,15,1.2,Dalam Perjalanan,08:00,11:00,Kuning,Periksa status pengiriman
+2025-07-15,Welding,Painting Steel,Rangka Depan,60,10,0.9,Belum Jalan,09:00,15:00,Hijau,Tetap pantau stok
+2025-07-15,Machining,Assy Engine,Cylinder Head,20,8,1.4,Belum Jalan,07:00,09:30,Merah,Hubungi seksi sebelumnya
+2025-07-15,Gensub,Assy Unit,Bracket Plastik,90,20,0.7,Sudah Tiba,10:00,14:30,Hijau,Tetap pantau stok
+2025-07-15,Painting Steel,Assy Unit,Rangka Body,25,10,0.8,Dalam Perjalanan,06:00,08:30,Kuning,Siapkan pengiriman cadangan
+2025-07-15,Press,Welding,Tangki Bensin,30,12,1.5,Belum Jalan,11:00,13:30,Kuning,Periksa status pengiriman
+2025-07-15,Machining,Assy Engine,Crankshaft,50,18,1.0,Sudah Tiba,12:00,14:46,Hijau,Tetap pantau stok
+2025-07-15,Casting,Machining,Engine Block,15,5,1.8,Belum Jalan,08:00,11:00,Merah,Kirim manual lewat forklift
+2025-07-15,Welding,Painting Steel,Rangka Belakang,80,15,0.6,Dalam Perjalanan,09:00,14:20,Hijau,Tetap pantau stok
+2025-07-15,Gensub,Assy Unit,Handle Plastik,35,20,1.1,Belum Jalan,07:00,08:45,Merah,Hubungi seksi sebelumnya
+2025-07-16,Painting Steel,Assy Unit,Rangka Body,100,10,0.5,Sudah Tiba,10:00,20:00,Hijau,Tetap pantau stok
+2025-07-16,Press,Welding,Tangki Bensin,25,25,1.3,Dalam Perjalanan,06:00,07:00,Merah,Kirim manual lewat forklift
+2025-07-16,Machining,Assy Engine,Cylinder Head,70,12,0.9,Sudah Tiba,08:00,13:50,Hijau,Tetap pantau stok
+2025-07-16,Casting,Machining,Engine Block,40,8,1.7,Belum Jalan,09:00,14:00,Kuning,Periksa status pengiriman
+2025-07-16,Welding,Painting Steel,Rangka Depan,55,15,0.8,Dalam Perjalanan,11:00,14:40,Hijau,Tetap pantau stok
+2025-07-16,Gensub,Assy Unit,Bracket Plastik,20,10,1.2,Belum Jalan,07:00,09:00,Merah,Hubungi seksi sebelumnya
+2025-07-16,Painting Steel,Assy Unit,Rangka Body,60,20,0.7,Sudah Tiba,12:00,15:00,Hijau,Tetap pantau stok
+2025-07-16,Press,Welding,Tangki Bensin,35,18,1.0,Dalam Perjalanan,08:00,09:56,Kuning,Siapkan pengiriman cadangan
+2025-07-16,Machining,Assy Engine,Crankshaft,90,15,0.9,Sudah Tiba,10:00,16:00,Hijau,Tetap pantau stok
+2025-07-16,Casting,Machining,Engine Block,25,10,1.5,Belum Jalan,06:00,08:30,Merah,Kirim manual lewat forklift
+2025-07-17,Welding,Painting Steel,Rangka Belakang,50,12,0.8,Dalam Perjalanan,09:00,13:10,Hijau,Tetap pantau stok
+2025-07-17,Gensub,Assy Unit,Handle Plastik,30,20,1.3,Belum Jalan,07:00,08:30,Merah,Hubungi seksi sebelumnya
+2025-07-17,Painting Steel,Assy Unit,Rangka Body,80,10,0.6,Sudah Tiba,11:00,19:00,Hijau,Tetap pantau stok
+2025-07-17,Press,Welding,Tangki Bensin,15,15,1.4,Dalam Perjalanan,08:00,09:00,Merah,Kirim manual lewat forklift
+2025-07-17,Machining,Assy Engine,Cylinder Head,60,10,0.7,Sudah Tiba,10:00,16:00,Hijau,Tetap pantau stok
+2025-07-17,Casting,Machining,Engine Block,45,8,1.2,Belum Jalan,06:00,11:37,Kuning,Periksa status pengiriman
+2025-07-17,Welding,Painting Steel,Rangka Depan,70,15,0.9,Dalam Perjalanan,09:00,13:40,Hijau,Tetap pantau stok
+2025-07-17,Gensub,Assy Unit,Bracket Plastik,25,20,1.0,Belum Jalan,07:00,08:15,Merah,Hubungi seksi sebelumnya
+2025-07-17,Painting Steel,Assy Unit,Rangka Body,90,10,0.5,Sudah Tiba,12:00,21:00,Hijau,Tetap pantau stok
+2025-07-18,Press,Welding,Tangki Bensin,35,12,1.1,Dalam Perjalanan,08:00,10:55,Kuning,Siapkan pengiriman cadangan
+2025-07-18,Machining,Assy Engine,Crankshaft,50,18,0.8,Sudah Tiba,10:00,12:46,Hijau,Tetap pantau stok
+2025-07-18,Casting,Machining,Engine Block,30,7,1.6,Belum Jalan,07:00,11:17,Kuning,Periksa status pengiriman
+2025-07-18,Welding,Painting Steel,Rangka Belakang,65,13,0.7,Dalam Perjalanan,10:00,15:00,Hijau,Tetap pantau stok
+2025-07-18,Gensub,Assy Unit,Handle Plastik,40,22,1.0,Belum Jalan,06:00,07:49,Merah,Hubungi seksi sebelumnya
+2025-07-18,Painting Steel,Assy Unit,Rangka Body,75,12,0.6,Sudah Tiba,09:00,15:15,Hijau,Tetap pantau stok
+2025-07-18,Press,Welding,Tangki Bensin,20,10,1.3,Dalam Perjalanan,08:00,10:00,Kuning,Periksa status pengiriman
+2025-07-18,Machining,Assy Engine,Cylinder Head,55,15,0.8,Sudah Tiba,11:00,14:40,Hijau,Tetap pantau stok
+2025-07-18,Casting,Machining,Engine Block,25,6,1.9,Belum Jalan,07:00,11:10,Kuning,Periksa status pengiriman
+2025-07-19,Welding,Painting Steel,Rangka Depan,85,10,0.5,Dalam Perjalanan,10:00,18:30,Hijau,Tetap pantau stok
+2025-07-19,Gensub,Assy Unit,Bracket Plastik,30,18,1.1,Belum Jalan,06:00,07:40,Merah,Hubungi seksi sebelumnya
+2025-07-19,Painting Steel,Assy Unit,Rangka Body,70,15,0.7,Sudah Tiba,09:00,13:40,Hijau,Tetap pantau stok
+2025-07-19,Press,Welding,Tangki Bensin,50,20,1.0,Dalam Perjalanan,08:00,10:30,Kuning,Siapkan pengiriman cadangan
+2025-07-19,Machining,Assy Engine,Crankshaft,65,12,0.9,Sudah Tiba,10:00,15:25,Hijau,Tetap pantau stok
+2025-07-19,Casting,Machining,Engine Block,35,8,1.5,Belum Jalan,07:00,11:22,Kuning,Periksa status pengiriman
+2025-07-19,Welding,Painting Steel,Rangka Belakang,90,15,0.6,Dalam Perjalanan,09:00,15:00,Hijau,Tetap pantau stok
+2025-07-19,Gensub,Assy Unit,Handle Plastik,25,20,1.2,Belum Jalan,06:00,07:15,Merah,Kirim manual lewat forklift
+2025-07-19,Painting Steel,Assy Unit,Rangka Body,80,10,0.5,Sudah Tiba,11:00,19:00,Hijau,Tetap pantau stok
+2025-07-20,Press,Welding,Tangki Bensin,30,15,1.3,Dalam Perjalanan,08:00,10:00,Kuning,Periksa status pengiriman
+2025-07-20,Machining,Assy Engine,Cylinder Head,60,10,0.7,Sudah Tiba,10:00,16:00,Hijau,Tetap pantau stok
+2025-07-20,Casting,Machining,Engine Block,20,5,1.8,Belum Jalan,07:00,11:00,Merah,Hubungi seksi sebelumnya
+2025-07-20,Welding,Painting Steel,Rangka Depan,70,12,0.9,Dalam Perjalanan,09:00,14:50,Hijau,Tetap pantau stok
+2025-07-20,Gensub,Assy Unit,Bracket Plastik,35,18,1.0,Belum Jalan,06:00,07:56,Merah,Hubungi seksi sebelumnya
+2025-07-20,Painting Steel,Assy Unit,Rangka Body,85,10,0.6,Sudah Tiba,11:00,19:30,Hijau,Tetap pantau stok
+2025-07-20,Press,Welding,Tangki Bensin,25,15,1.4,Dalam Perjalanan,08:00,09:40,Merah,Kirim manual lewat forklift
+2025-07-20,Machining,Assy Engine,Crankshaft,50,12,0.8,Sudah Tiba,10:00,14:10,Hijau,Tetap pantau stok
+2025-07-20,Casting,Machining,Engine Block,40,8,1.6,Belum Jalan,07:00,12:00,Kuning,Periksa status pengiriman
+2025-07-21,Welding,Painting Steel,Rangka Belakang,75,15,0.7,Dalam Perjalanan,09:00,14:00,Hijau,Tetap pantau stok
+2025-07-21,Gensub,Assy Unit,Handle Plastik,30,20,1.1,Belum Jalan,06:00,07:30,Merah,Hubungi seksi sebelumnya
+2025-07-21,Painting Steel,Assy Unit,Rangka Body,90,10,0.5,Sudah Tiba,11:00,20:00,Hijau,Tetap pantau stok
+2025-07-21,Press,Welding,Tangki Bensin,35,12,1.2,Dalam Perjalanan,08:00,10:55,Kuning,Siapkan pengiriman cadangan
+2025-07-21,Machining,Assy Engine,Cylinder Head,65,15,0.9,Sudah Tiba,10:00,14:20,Hijau,Tetap pantau stok
+2025-07-21,Casting,Machining,Engine Block,25,6,1.7,Belum Jalan,07:00,11:10,Kuning,Periksa status pengiriman
+2025-07-21,Welding,Painting Steel,Rangka Depan,80,10,0.6,Dalam Perjalanan,09:00,17:00,Hijau,Tetap pantau stok
+2025-07-21,Gensub,Assy Unit,Bracket Plastik,20,18,1.0,Belum Jalan,06:00,07:06,Merah,Kirim manual lewat forklift
+2025-07-21,Painting Steel,Assy Unit,Rangka Body,70,12,0.7,Sudah Tiba,11:00,16:50,Hijau,Tetap pantau stok
+2025-07-22,Press,Welding,Tangki Bensin,45,15,1.2,Dalam Perjalanan,08:00,11:00,Kuning,Periksa status pengiriman
+2025-07-22,Welding,Painting Steel,Rangka Depan,60,10,0.9,Belum Jalan,09:00,15:00,Hijau,Tetap pantau stok
+2025-07-22,Machining,Assy Engine,Cylinder Head,20,8,1.4,Belum Jalan,07:00,09:30,Merah,Hubungi seksi sebelumnya
+2025-07-22,Gensub,Assy Unit,Bracket Plastik,90,20,0.7,Sudah Tiba,10:00,14:30,Hijau,Tetap pantau stok
+2025-07-22,Painting Steel,Assy Unit,Rangka Body,25,10,0.8,Dalam Perjalanan,06:00,08:30,Kuning,Siapkan pengiriman cadangan
+2025-07-22,Press,Welding,Tangki Bensin,30,12,1.5,Belum Jalan,11:00,13:30,Kuning,Periksa status pengiriman
+2025-07-22,Machining,Assy Engine,Crankshaft,50,18,1.0,Sudah Tiba,12:00,14:46,Hijau,Tetap pantau stok
+2025-07-22,Casting,Machining,Engine Block,15,5,1.8,Belum Jalan,08:00,11:00,Merah,Kirim manual lewat forklift
+2025-07-22,Welding,Painting Steel,Rangka Belakang,80,15,0.6,Dalam Perjalanan,09:00,14:20,Hijau,Tetap pantau stok
+2025-07-22,Gensub,Assy Unit,Handle Plastik,35,20,1.1,Belum Jalan,07:00,08:45,Merah,Hubungi seksi sebelumnya
+2025-07-23,Painting Steel,Assy Unit,Rangka Body,100,10,0.5,Sudah Tiba,10:00,20:00,Hijau,Tetap pantau stok
+2025-07-23,Press,Welding,Tangki Bensin,25,25,1.3,Dalam Perjalanan,06:00,07:00,Merah,Kirim manual lewat forklift
+2025-07-23,Machining,Assy Engine,Cylinder Head,70,12,0.9,Sudah Tiba,08:00,13:50,Hijau,Tetap pantau stok
+2025-07-23,Casting,Machining,Engine Block,40,8,1.7,Belum Jalan,09:00,14:00,Kuning,Periksa status pengiriman
+2025-07-23,Welding,Painting Steel,Rangka Depan,55,15,0.8,Dalam Perjalanan,11:00,14:40,Hijau,Tetap pantau stok
+2025-07-23,Gensub,Assy Unit,Bracket Plastik,20,10,1.2,Belum Jalan,07:00,09:00,Merah,Hubungi seksi sebelumnya
+2025-07-23,Painting Steel,Assy Unit,Rangka Body,60,20,0.7,Sudah Tiba,12:00,15:00,Hijau,Tetap pantau stok
+2025-07-23,Press,Welding,Tangki Bensin,35,18,1.0,Dalam Perjalanan,08:00,09:56,Kuning,Siapkan pengiriman cadangan
+2025-07-23,Machining,Assy Engine,Crankshaft,90,15,0.9,Sudah Tiba,10:00,16:00,Hijau,Tetap pantau stok
+2025-07-23,Casting,Machining,Engine Block,25,10,1.5,Belum Jalan,06:00,08:30,Merah,Kirim manual lewat forklift
+2025-07-24,Welding,Painting Steel,Rangka Belakang,50,12,0.8,Dalam Perjalanan,09:00,13:10,Hijau,Tetap pantau stok
+2025-07-24,Gensub,Assy Unit,Handle Plastik,30,20,1.3,Belum Jalan,07:00,08:30,Merah,Hubungi seksi sebelumnya
+2025-07-24,Painting Steel,Assy Unit,Rangka Body,80,10,0.6,Sudah Tiba,11:00,19:00,Hijau,Tetap pantau stok
+2025-07-24,Press,Welding,Tangki Bensin,15,15,1.4,Dalam Perjalanan,08:00,09:00,Merah,Kirim manual lewat forklift
+2025-07-24,Machining,Assy Engine,Cylinder Head,60,10,0.7,Sudah Tiba,10:00,16:00,Hijau,Tetap pantau stok
+2025-07-24,Casting,Machining,Engine Block,45,8,1.2,Belum Jalan,06:00,11:37,Kuning,Periksa status pengiriman
+2025-07-24,Welding,Painting Steel,Rangka Depan,70,15,0.9,Dalam Perjalanan,09:00,13:40,Hijau,Tetap pantau stok
+2025-07-24,Gensub,Assy Unit,Bracket Plastik,25,20,1.0,Belum Jalan,07:00,08:15,Merah,Hubungi seksi sebelumnya
+2025-07-24,Painting Steel,Assy Unit,Rangka Body,90,10,0.5,Sudah Tiba,12:00,21:00,Hijau,Tetap pantau stok
+2025-07-25,Press,Welding,Tangki Bensin,35,12,1.1,Dalam Perjalanan,08:00,10:55,Kuning,Siapkan pengiriman cadangan
+2025-07-25,Machining,Assy Engine,Crankshaft,50,18,0.8,Sudah Tiba,10:00,12:46,Hijau,Tetap pantau stok
+2025-07-25,Casting,Machining,Engine Block,30,7,1.6,Belum Jalan,07:00,11:17,Kuning,Periksa status pengiriman
+2025-07-25,Welding,Painting Steel,Rangka Belakang,65,13,0.7,Dalam Perjalanan,10:00,15:00,Hijau,Tetap pantau stok
+2025-07-25,Gensub,Assy Unit,Handle Plastik,40,22,1.0,Belum Jalan,06:00,07:49,Merah,Hubungi seksi sebelumnya
+2025-07-25,Painting Steel,Assy Unit,Rangka Body,75,12,0.6,Sudah Tiba,09:00,15:15,Hijau,Tetap pantau stok
+2025-07-25,Press,Welding,Tangki Bensin,20,10,1.3,Dalam Perjalanan,08:00,10:00,Kuning,Periksa status pengiriman
+2025-07-25,Machining,Assy Engine,Cylinder Head,55,15,0.8,Sudah Tiba,11:00,14:40,Hijau,Tetap pantau stok
+2025-07-25,Casting,Machining,Engine Block,25,6,1.9,Belum Jalan,07:00,11:10,Kuning,Periksa status pengiriman
+2025-07-26,Welding,Painting Steel,Rangka Depan,85,10,0.5,Dalam Perjalanan,10:00,18:30,Hijau,Tetap pantau stok
+2025-07-26,Gensub,Assy Unit,Bracket Plastik,30,18,1.1,Belum Jalan,06:00,07:40,Merah,Hubungi seksi sebelumnya
+2025-07-26,Painting Steel,Assy Unit,Rangka Body,70,15,0.7,Sudah Tiba,09:00,13:40,Hijau,Tetap pantau stok
+2025-07-26,Press,Welding,Tangki Bensin,50,20,1.0,Dalam Perjalanan,08:00,10:30,Kuning,Siapkan pengiriman cadangan
+2025-07-26,Machining,Assy Engine,Crankshaft,65,12,0.9,Sudah Tiba,10:00,15:25,Hijau,Tetap pantau stok
+2025-07-26,Casting,Machining,Engine Block,35,8,1.5,Belum Jalan,07:00,11:22,Kuning,Periksa status pengiriman
+2025-07-26,Welding,Painting Steel,Rangka Belakang,90,15,0.6,Dalam Perjalanan,09:00,15:00,Hijau,Tetap pantau stok
+2025-07-26,Gensub,Assy Unit,Handle Plastik,25,20,1.2,Belum Jalan,06:00,07:15,Merah,Kirim manual lewat forklift
+2025-07-26,Painting Steel,Assy Unit,Rangka Body,80,10,0.5,Sudah Tiba,11:00,19:00,Hijau,Tetap pantau stok
+2025-07-27,Press,Welding,Tangki Bensin,30,15,1.3,Dalam Perjalanan,08:00,10:00,Kuning,Periksa status pengiriman
+2025-07-27,Machining,Assy Engine,Cylinder Head,60,10,0.7,Sudah Tiba,10:00,16:00,Hijau,Tetap pantau stok
+2025-07-27,Casting,Machining,Engine Block,20,5,1.8,Belum Jalan,07:00,11:00,Merah,Hubungi seksi sebelumnya
+2025-07-27,Welding,Painting Steel,Rangka Depan,70,12,0.9,Dalam Perjalanan,09:00,14:50,Hijau,Tetap pantau stok
+2025-07-27,Gensub,Assy Unit,Bracket Plastik,35,18,1.0,Belum Jalan,06:00,07:56,Merah,Hubungi seksi sebelumnya
+2025-07-27,Painting Steel,Assy Unit,Rangka Body,85,10,0.6,Sudah Tiba,11:00,19:30,Hijau,Tetap pantau stok
+2025-07-27,Press,Welding,Tangki Bensin,25,15,1.4,Dalam Perjalanan,08:00,09:40,Merah,Kirim manual lewat forklift
+2025-07-27,Machining,Assy Engine,Crankshaft,50,12,0.8,Sudah Tiba,10:00,14:10,Hijau,Tetap pantau stok
+2025-07-27,Casting,Machining,Engine Block,40,8,1.6,Belum Jalan,07:00,12:00,Kuning,Periksa status pengiriman
+2025-07-28,Welding,Painting Steel,Rangka Belakang,75,15,0.7,Dalam Perjalanan,09:00,14:00,Hijau,Tetap pantau stok
+2025-07-28,Gensub,Assy Unit,Handle Plastik,30,20,1.1,Belum Jalan,06:00,07:30,Merah,Hubungi seksi sebelumnya
+2025-07-28,Painting Steel,Assy Unit,Rangka Body,90,10,0.5,Sudah Tiba,11:00,20:00,Hijau,Tetap pantau stok
+2025-07-28,Press,Welding,Tangki Bensin,35,12,1.2,Dalam Perjalanan,08:00,10:55,Kuning,Siapkan pengiriman cadangan
+2025-07-28,Machining,Assy Engine,Cylinder Head,65,15,0.9,Sudah Tiba,10:00,14:20,Hijau,Tetap pantau stok
+2025-07-28,Casting,Machining,Engine Block,25,6,1.7,Belum Jalan,07:00,11:10,Kuning,Periksa status pengiriman
+2025-07-28,Welding,Painting Steel,Rangka Depan,80,10,0.6,Dalam Perjalanan,09:00,17:00,Hijau,Tetap pantau stok
+2025-07-28,Gensub,Assy Unit,Bracket Plastik,20,18,1.0,Belum Jalan,06:00,07:06,Merah,Kirim manual lewat forklift
+2025-07-28,Painting Steel,Assy Unit,Rangka Body,70,12,0.7,Sudah Tiba,11:00,16:50,Hijau,Tetap pantau stok
+2025-07-29,Press,Welding,Tangki Bensin,45,15,1.2,Dalam Perjalanan,08:00,11:00,Kuning,Periksa status pengiriman
+2025-07-29,Welding,Painting Steel,Rangka Depan,60,10,0.9,Belum Jalan,09:00,15:00,Hijau,Tetap pantau stok
+2025-07-29,Machining,Assy Engine,Cylinder Head,20,8,1.4,Belum Jalan,07:00,09:30,Merah,Hubungi seksi sebelumnya
+2025-07-29,Gensub,Assy Unit,Bracket Plastik,90,20,0.7,Sudah Tiba,10:00,14:30,Hijau,Tetap pantau stok
+2025-07-29,Painting Steel,Assy Unit,Rangka Body,25,10,0.8,Dalam Perjalanan,06:00,08:30,Kuning,Siapkan pengiriman cadangan
+2025-07-29,Press,Welding,Tangki Bensin,30,12,1.5,Belum Jalan,11:00,13:30,Kuning,Periksa status pengiriman
+2025-07-29,Machining,Assy Engine,Crankshaft,50,18,1.0,Sudah Tiba,12:00,14:46,Hijau,Tetap pantau stok
+2025-07-29,Casting,Machining,Engine Block,15,5,1.8,Belum Jalan,08:00,11:00,Merah,Kirim manual lewat forklift
+2025-07-29,Welding,Painting Steel,Rangka Belakang,80,15,0.6,Dalam Perjalanan,09:00,14:20,Hijau,Tetap pantau stok
+2025-07-29,Gensub,Assy Unit,Handle Plastik,35,20,1.1,Belum Jalan,07:00,08:45,Merah,Hubungi seksi sebelumnya
+2025-07-30,Painting Steel,Assy Unit,Rangka Body,100,10,0.5,Sudah Tiba,10:00,20:00,Hijau,Tetap pantau stok
+2025-07-30,Press,Welding,Tangki Bensin,25,25,1.3,Dalam Perjalanan,06:00,07:00,Merah,Kirim manual lewat forklift
+2025-07-30,Machining,Assy Engine,Cylinder Head,70,12,0.9,Sudah Tiba,08:00,13:50,Hijau,Tetap pantau stok
+2025-07-30,Casting,Machining,Engine Block,40,8,1.7,Belum Jalan,09:00,14:00,Kuning,Periksa status pengiriman
+2025-07-30,Welding,Painting Steel,Rangka Depan,55,15,0.8,Dalam Perjalanan,11:00,14:40,Hijau,Tetap pantau stok
+2025-07-30,Gensub,Assy Unit,Bracket Plastik,20,10,1.2,Belum Jalan,07:00,09:00,Merah,Hubungi seksi sebelumnya
+2025-07-30,Painting Steel,Assy Unit,Rangka Body,60,20,0.7,Sudah Tiba,12:00,15:00,Hijau,Tetap pantau stok
+2025-07-30,Press,Welding,Tangki Bensin,35,18,1.0,Dalam Perjalanan,08:00,09:56,Kuning,Siapkan pengiriman cadangan
+2025-07-30,Machining,Assy Engine,Crankshaft,90,15,0.9,Sudah Tiba,10:00,16:00,Hijau,Tetap pantau stok
+2025-07-30,Casting,Machining,Engine Block,25,10,1.5,Belum Jalan,06:00,08:30,Merah,Kirim manual lewat forklift
+2025-07-31,Welding,Painting Steel,Rangka Belakang,50,12,0.8,Dalam Perjalanan,09:00,13:10,Hijau,Tetap pantau stok
+2025-07-31,Gensub,Assy Unit,Handle Plastik,30,20,1.3,Belum Jalan,07:00,08:30,Merah,Hubungi seksi sebelumnya
+2025-07-31,Painting Steel,Assy Unit,Rangka Body,80,10,0.6,Sudah Tiba,11:00,19:00,Hijau,Tetap pantau stok
+2025-07-31,Press,Welding,Tangki Bensin,15,15,1.4,Dalam Perjalanan,08:00,09:00,Merah,Kirim manual lewat forklift
+2025-07-31,Machining,Assy Engine,Cylinder Head,60,10,0.7,Sudah Tiba,10:00,16:00,Hijau,Tetap pantau stok
+2025-07-31,Casting,Machining,Engine Block,45,8,1.2,Belum Jalan,06:00,11:37,Kuning,Periksa status pengiriman
+2025-07-31,Welding,Painting Steel,Rangka Depan,70,15,0.9,Dalam Perjalanan,09:00,13:40,Hijau,Tetap pantau stok
+2025-07-31,Gensub,Assy Unit,Bracket Plastik,25,20,1.0,Belum Jalan,07:00,08:15,Merah,Hubungi seksi sebelumnya
+2025-07-31,Painting Steel,Assy Unit,Rangka Body,90,10,0.5,Sudah Tiba,12:00,21:00,Hijau,Tetap pantau stok
+2025-07-01,Press,Welding,Tangki Bensin,35,12,1.1,Dalam Perjalanan,08:00,10:55,Kuning,Siapkan pengiriman cadangan
+2025-07-01,Machining,Assy Engine,Crankshaft,50,18,0.8,Sudah Tiba,10:00,12:46,Hijau,Tetap pantau stok
+2025-07-01,Casting,Machining,Engine Block,30,7,1.6,Belum Jalan,07:00,11:17,Kuning,Periksa status pengiriman
+2025-07-01,Welding,Painting Steel,Rangka Belakang,65,13,0.7,Dalam Perjalanan,10:00,15:00,Hijau,Tetap pantau stok
+2025-07-01,Gensub,Assy Unit,Handle Plastik,40,22,1.0,Belum Jalan,06:00,07:49,Merah,Hubungi seksi sebelumnya
+2025-07-01,Painting Steel,Assy Unit,Rangka Body,75,12,0.6,Sudah Tiba,09:00,15:15,Hijau,Tetap pantau stok
+2025-07-01,Press,Welding,Tangki Bensin,20,10,1.3,Dalam Perjalanan,08:00,10:00,Kuning,Periksa status pengiriman
+2025-07-01,Machining,Assy Engine,Cylinder Head,55,15,0.8,Sudah Tiba,11:00,14:40,Hijau,Tetap pantau stok
+2025-07-01,Casting,Machining,Engine Block,25,6,1.9,Belum Jalan,07:00,11:10,Kuning,Periksa status pengiriman
+2025-07-02,Welding,Painting Steel,Rangka Depan,85,10,0.5,Dalam Perjalanan,10:00,18:30,Hijau,Tetap pantau stok
+2025-07-02,Gensub,Assy Unit,Bracket Plastik,30,18,1.1,Belum Jalan,06:00,07:40,Merah,Hubungi seksi sebelumnya
+2025-07-02,Painting Steel,Assy Unit,Rangka Body,70,15,0.7,Sudah Tiba,09:00,13:40,Hijau,Tetap pantau stok
+2025-07-02,Press,Welding,Tangki Bensin,50,20,1.0,Dalam Perjalanan,08:00,10:30,Kuning,Siapkan pengiriman cadangan
+2025-07-02,Machining,Assy Engine,Crankshaft,65,12,0.9,Sudah Tiba,10:00,15:25,Hijau,Tetap pantau stok
+2025-07-02,Casting,Machining,Engine Block,35,8,1.5,Belum Jalan,07:00,11:22,Kuning,Periksa status pengiriman
+2025-07-02,Welding,Painting Steel,Rangka Belakang,90,15,0.6,Dalam Perjalanan,09:00,15:00,Hijau,Tetap pantau stok
+2025-07-02,Gensub,Assy Unit,Handle Plastik,25,20,1.2,Belum Jalan,06:00,07:15,Merah,Kirim manual lewat forklift
+2025-07-02,Painting Steel,Assy Unit,Rangka Body,80,10,0.5,Sudah Tiba,11:00,19:00,Hijau,Tetap pantau stok
+2025-07-03,Press,Welding,Tangki Bensin,30,15,1.3,Dalam Perjalanan,08:00,10:00,Kuning,Periksa status pengiriman
+2025-07-03,Machining,Assy Engine,Cylinder Head,60,10,0.7,Sudah Tiba,10:00,16:00,Hijau,Tetap pantau stok
+2025-07-03,Casting,Machining,Engine Block,20,5,1.8,Belum Jalan,07:00,11:00,Merah,Hubungi seksi sebelumnya
+2025-07-03,Welding,Painting Steel,Rangka Depan,70,12,0.9,Dalam Perjalanan,09:00,14:50,Hijau,Tetap pantau stok
+2025-07-03,Gensub,Assy Unit,Bracket Plastik,35,18,1.0,Belum Jalan,06:00,07:56,Merah,Hubungi seksi sebelumnya
+2025-07-03,Painting Steel,Assy Unit,Rangka Body,85,10,0.6,Sudah Tiba,11:00,19:30,Hijau,Tetap pantau stok
+2025-07-03,Press,Welding,Tangki Bensin,25,15,1.4,Dalam Perjalanan,08:00,09:40,Merah,Kirim manual lewat forklift
+2025-07-03,Machining,Assy Engine,Crankshaft,50,12,0.8,Sudah Tiba,10:00,14:10,Hijau,Tetap pantau stok
+2025-07-03,Casting,Machining,Engine Block,40,8,1.6,Belum Jalan,07:00,12:00,Kuning,Periksa status pengiriman
+2025-07-04,Welding,Painting Steel,Rangka Belakang,75,15,0.7,Dalam Perjalanan,09:00,14:00,Hijau,Tetap pantau stok
+2025-07-04,Gensub,Assy Unit,Handle Plastik,30,20,1.1,Belum Jalan,06:00,07:30,Merah,Hubungi seksi sebelumnya
+2025-07-04,Painting Steel,Assy Unit,Rangka Body,90,10,0.5,Sudah Tiba,11:00,20:00,Hijau,Tetap pantau stok
+2025-07-04,Press,Welding,Tangki Bensin,35,12,1.2,Dalam Perjalanan,08:00,10:55,Kuning,Siapkan pengiriman cadangan
+2025-07-04,Machining,Assy Engine,Cylinder Head,65,15,0.9,Sudah Tiba,10:00,14:20,Hijau,Tetap pantau stok
+2025-07-04,Casting,Machining,Engine Block,25,6,1.7,Belum Jalan,07:00,11:10,Kuning,Periksa status pengiriman
+2025-07-04,Welding,Painting Steel,Rangka Depan,80,10,0.6,Dalam Perjalanan,09:00,17:00,Hijau,Tetap pantau stok
+2025-07-04,Gensub,Assy Unit,Bracket Plastik,20,18,1.0,Belum Jalan,06:00,07:06,Merah,Kirim manual lewat forklift
+2025-07-04,Painting Steel,Assy Unit,Rangka Body,70,12,0.7,Sudah Tiba,11:00,16:50,Hijau,Tetap pantau stok
+2025-07-05,Press,Welding,Tangki Bensin,45,15,1.2,Dalam Perjalanan,08:00,11:00,Kuning,Periksa status pengiriman
+2025-07-05,Welding,Painting Steel,Rangka Depan,60,10,0.9,Belum Jalan,09:00,15:00,Hijau,Tetap pantau stok
+2025-07-05,Machining,Assy Engine,Cylinder Head,20,8,1.4,Belum Jalan,07:00,09:30,Merah,Hubungi seksi sebelumnya
+2025-07-05,Gensub,Assy Unit,Bracket Plastik,90,20,0.7,Sudah Tiba,10:00,14:30,Hijau,Tetap pantau stok
+2025-07-05,Painting Steel,Assy Unit,Rangka Body,25,10,0.8,Dalam Perjalanan,06:00,08:30,Kuning,Siapkan pengiriman cadangan
+2025-07-05,Press,Welding,Tangki Bensin,30,12,1.5,Belum Jalan,11:00,13:30,Kuning,Periksa status pengiriman
+2025-07-05,Machining,Assy Engine,Crankshaft,50,18,1.0,Sudah Tiba,12:00,14:46,Hijau,Tetap pantau stok
+2025-07-05,Casting,Machining,Engine Block,15,5,1.8,Belum Jalan,08:00,11:00,Merah,Kirim manual lewat forklift
