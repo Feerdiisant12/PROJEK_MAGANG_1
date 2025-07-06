@@ -192,8 +192,7 @@ with tab2:
     
     with st.sidebar:
         st.title("⚙️ Analisis Detail & ETA")
-        ors_api_key = st.text_input("Masukkan OpenRouteService API Key Anda", type="password", help="Kunci API diperlukan untuk menghitung rute dan ETA.")
-        st.caption("Dapatkan kunci API gratis di [OpenRouteService Sign Up](https://openrouteservice.org/dev/#/signup)")
+        ors_api_key = st.secrets["ORS_API_KEY"]
         
         st.markdown("---")
         st.subheader("1. Rute Pengiriman (Supplier ke Gudang)")
