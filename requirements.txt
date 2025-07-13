@@ -3,3 +3,6 @@ pandas
 streamlit
 joblib==1.4.2
 plotly
+gspread
+google-generativeai
+numpy
