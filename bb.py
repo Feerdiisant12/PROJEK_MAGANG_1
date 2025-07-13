@@ -251,30 +251,29 @@ with tab1:
             st.plotly_chart(fig_bar, use_container_width=True)
 
         st.markdown("---")
-        table_col, insight_col = st.columns([3, 2])
-        with table_col:
-            st.subheader("Detail Status Part")
-            def style_dataframe(df):
-                def highlight_rows(row):
-                    style = [''] * len(row)
-                    if row['Prediksi_Kritis'] == 'High': style = ['color: #D32F2F; font-weight: bold;'] * len(row)
-                    elif row['Prediksi_Kritis'] == 'Medium': style = ['color: #F57C00;'] * len(row)
-                    if row['Status_Stok'] == 'Anomali': style = [s + ' border: 1.5px solid #D32F2F;' for s in style]
-                    return style
-                return df.style.apply(highlight_rows, axis=1)
-            st.dataframe(style_dataframe(df_filtered), use_container_width=True, height=400)
-        with insight_col:
-            st.subheader("🤖 Analisis Part oleh AI")
-            part_list_monitoring = df_filtered['PART NUMBER / PART NAME'].tolist()
-            if part_list_monitoring:
-                selected_part = st.selectbox("Pilih Part untuk dianalisis:", part_list_monitoring, key="monitoring_selector")
-                if st.button("✨ Dapatkan Insight & Rekomendasi", key="insight_monitoring", use_container_width=True, type="primary"):
-                    with st.spinner("Gemini sedang menganalisis part..."):
-                        part_data = df_filtered[df_filtered['PART NUMBER / PART NAME'] == selected_part].to_dict('records')[0]
-                        insight_text = get_monitoring_insight(part_data, gemini_model)
-                        st.info(insight_text)
-            else:
-                st.warning("Tidak ada data untuk dianalisis.")
+        st.subheader("Detail Status Part")
+        def style_dataframe(df):
+            def highlight_rows(row):
+                style = [''] * len(row)
+                if row['Prediksi_Kritis'] == 'High': style = ['color: #D32F2F; font-weight: bold;'] * len(row)
+                elif row['Prediksi_Kritis'] == 'Medium': style = ['color: #F57C00;'] * len(row)
+                if row['Status_Stok'] == 'Anomali': style = [s + ' border: 1.5px solid #D32F2F;' for s in style]
+                return style
+            return df.style.apply(highlight_rows, axis=1)
+        st.dataframe(style_dataframe(df_filtered), use_container_width=True, height=400)
+        st.markdown("---")
+    
+        st.subheader("🤖 Analisis Part oleh AI")
+        part_list_monitoring = df_filtered['PART NUMBER / PART NAME'].tolist()
+        if part_list_monitoring:
+            selected_part = st.selectbox("Pilih Part untuk dianalisis:", part_list_monitoring, key="monitoring_selector")
+            if st.button("✨ Dapatkan Insight & Rekomendasi", key="insight_monitoring", use_container_width=True, type="primary"):
+                with st.spinner("Gemini sedang menganalisis part..."):
+                    part_data = df_filtered[df_filtered['PART NUMBER / PART NAME'] == selected_part].to_dict('records')[0]
+                    insight_text = get_monitoring_insight(part_data, gemini_model)
+                    st.info(insight_text)
+        else:
+            st.warning("Tidak ada data untuk dianalisis.")
     else:
         st.warning("Tidak dapat memuat data monitoring.")
 
